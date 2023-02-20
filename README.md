@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://naim114.github.io/portfolio/](https://naim114.github.io/portfolio/)
 
-- 📫 How to reach me **naim.muhammad99@gmail.com**
+- 📫 How to reach me **naim.affindi@gmail.com**
 
 <p align="left">
 </p>
