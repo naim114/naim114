@@ -5,11 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naim114" alt="naim114" /></a> </p>
 
+<h3 align="left">Connect with me:</h3>
+
 - 👨‍💻 All of my projects are available at [https://naim114.github.io/portfolio/](https://naim114.github.io/portfolio/)
 
 - 📫 How to reach me **naim.muhammad99@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
