@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Naim</h1>
-<h3 align="center">Software Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naim114&label=Profile%20views&color=0e75b6&style=flat" alt="naim114" /> </p>
 
